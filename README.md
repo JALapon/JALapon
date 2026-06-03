@@ -1,16 +1,11 @@
-<h1 align="center">Hey, I'm Julio 👋</h1>h1>
+# Hey, I'm Julio 👋
 
-<p align="center">
-  <b>Data & BI Analyst · MS Software Engineering @ FGCU</b>b><br/>
-    I turn raw data into decisions — SQL, Python, dashboards, and automated reporting pipelines
-</p>p>
+**Data & BI Analyst · MS Software Engineering @ FGCU**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-lapon-2880a8239/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>a>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" />
-</p>p>
+I turn raw data into decisions — SQL, Python, dashboards, and automated reporting pipelines
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-lapon-2880a8239/)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)
 
 ---
 
@@ -60,20 +55,17 @@
 
         | Project | What It Does | Stack |
         |---|---|---|
-        | [🗺️ fl-crash-dashboard](https://github.com/JALapon/fl-crash-dashboard) | End-to-end pipeline analyzing 134K Florida crash records — FDOT API → pandas → DuckDB → Tableau | Python, SQL, DuckDB, Tableau |
-        | [⚙️ brdgit-social-media-automation](https://github.com/JALapon/brdgit-social-media-automation) | Automated social media content workflows for BRDGIT | n8n, AI |
-        | [📋 Pre-Workshop-Data-Aggregator](https://github.com/JALapon/Pre-Workshop-Data-Aggregator) | n8n workflow aggregating HubSpot, ScoreApp & live web data into facilitator briefs | n8n, HubSpot API |
-        | [🧠 decision-intelligence-api](https://github.com/JALapon/decision-intelligence-api) | API that ingests CSV data, runs ML analysis, and returns LLM-generated insights | Python, FastAPI, OpenAI |
+        | [fl-crash-dashboard](https://github.com/JALapon/fl-crash-dashboard) | End-to-end pipeline analyzing 134K Florida crash records — FDOT API → pandas → DuckDB → Tableau | Python, SQL, DuckDB, Tableau |
+        | [brdgit-social-media-automation](https://github.com/JALapon/brdgit-social-media-automation) | Automated social media content workflows for BRDGIT | n8n, AI |
+        | [Pre-Workshop-Data-Aggregator](https://github.com/JALapon/Pre-Workshop-Data-Aggregator) | n8n workflow aggregating HubSpot, ScoreApp & live web data into facilitator briefs | n8n, HubSpot API |
+        | [decision-intelligence-api](https://github.com/JALapon/decision-intelligence-api) | API that ingests CSV data, runs ML analysis, and returns LLM-generated insights | Python, FastAPI, OpenAI |
 
         ---
 
         ## 📊 GitHub Stats
 
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=JALapon&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
-            &nbsp;
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JALapon&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=6" height="150"/>
-        </p>p>
+        ![Julio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JALapon&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JALapon&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=6)
 
         ---
 
@@ -85,7 +77,4 @@
            
             - ---
 
-            <p align="center">
-              <i>Open to Data Analyst, BI Analyst, and Reporting Analyst roles — South Florida & Remote · Let's connect!</i>i>
-            </p>p></i>
-  </b>
+            *Open to Data Analyst, BI Analyst, and Reporting Analyst roles — South Florida & Remote · Let's connect!*
