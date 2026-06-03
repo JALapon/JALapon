@@ -64,8 +64,9 @@ I turn raw data into decisions — SQL, Python, dashboards, and automated report
 
         ## 📊 GitHub Stats
 
-        ![Julio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JALapon&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JALapon&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&langs_count=6)
+        ![streak](https://streak-stats.demolab.com?user=JALapon&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+        ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JALapon&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
         ---
 
